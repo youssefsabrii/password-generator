@@ -12,24 +12,24 @@ It also supports **dark/light mode** for better usability.
 ---
 
 ## ✨ Features
-- Set custom password length
+- Set custom password length  
 - Include/exclude:
   - Uppercase letters
   - Lowercase letters
   - Numbers
   - Symbols
-- Real-time **strength meter** (Weak, Medium, Strong)
-- Copy password to clipboard with one click
-- Warning card if no character type is selected (instead of alert)
-- Responsive UI with smooth animations
-- **Dark / Light mode toggle**
+- Real-time **strength meter** (Weak, Medium, Strong)  
+- Copy password to clipboard with one click  
+- Warning card if no character type is selected (instead of alert)  
+- Responsive UI with smooth animations  
+- **Dark / Light mode toggle**  
 
 ---
 
 ## 🛠️ Technologies Used
-- **HTML5** – structure
-- **CSS3** – styling & responsive design
-- **JavaScript (ES6)** – password logic & interactivity
+- **HTML5** – structure  
+- **CSS3** – styling & responsive design  
+- **JavaScript (ES6)** – password logic & interactivity  
 
 ---
 
